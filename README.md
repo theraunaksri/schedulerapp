@@ -1,4 +1,4 @@
-# React Todo App
+# schedulerapp
 
 This is a simple React Todo application that allows users to add, update, and delete tasks.
 
