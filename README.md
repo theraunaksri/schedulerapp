@@ -44,7 +44,7 @@ Styling
 Styles are located in the src/components directory. You can modify the CSS files to customize the app's appearance.
 
 # screenshots
+![fit 1](https://github.com/theraunaksri/schedulerapp/assets/64487153/aaebf5d5-e4a6-4a39-bb34-bd53bb99630d)
 
-![fit 1](https://github.com/theraunaksri/schedulerapp/assets/64487153/da388055-c958-4d50-b2d6-0ef92b30362c)
 
 
