@@ -1,6 +1,6 @@
 # schedulerapp
 
-This is a simple React Todo application that allows users to add, update, and delete tasks.
+This is a simple React schedular application that allows users to add, update, and delete tasks.
 
 ## Getting Started
 
@@ -44,7 +44,15 @@ Styling
 Styles are located in the src/components directory. You can modify the CSS files to customize the app's appearance.
 
 # screenshots
-![fit 1](https://github.com/theraunaksri/schedulerapp/assets/64487153/aaebf5d5-e4a6-4a39-bb34-bd53bb99630d)
+
+
+![fit 1](https://github.com/theraunaksri/schedulerapp/assets/64487153/6edb5557-1e7d-4eef-a4c7-e7395e5585a2)
+
+![fit 2](https://github.com/theraunaksri/schedulerapp/assets/64487153/662bacdb-afa8-4ce4-aa04-57fae69ef815)
+
+
+
+
 
 
 
